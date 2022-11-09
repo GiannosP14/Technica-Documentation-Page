@@ -1,1 +1,1 @@
-# My Technica-Documentation-Page for my freeCodeCamp Legacy Responsive Web Design Certification
+# My Technical-Documentation-Page for my freeCodeCamp Legacy Responsive Web Design Certification
